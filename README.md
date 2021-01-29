@@ -12,6 +12,8 @@ This just automates making stupid tiktok compilations.
 ## Thats all you need 
 # Ok im still dumb how do I run it
 -chmod +x videomaker.sh
+
 -./videomaker.sh
+
 # ok will you ever add on to this to auto upload the video? What aboout if this thing breaks?
 Uhhhh if I feel like it ill use python to auto upload the video. If it breaks contact me on discord Tele.Mon#4129.
