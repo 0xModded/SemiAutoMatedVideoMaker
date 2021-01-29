@@ -1,4 +1,4 @@
-# SemiAutoMatedVideoMaker
+# VideoMaker
 This just automates making stupid tiktok compilations. 
 # How do I use it huh????
 ## If your on linux/ubuntu
